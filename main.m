@@ -30,6 +30,7 @@ end
 signalAnalyzer(iq);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //asdasdsadasdasdsadsadsadasdsadsadsa
 =======
 <<<<<<< HEAD
@@ -47,3 +48,6 @@ disp("Hello from test_brnch");
 
 % Смотрим где будет HEAD
 % check
+=======
+force power
+>>>>>>> e0b0cc04da5d2cfe8f3e175e0b782f7fe2c46fb0
