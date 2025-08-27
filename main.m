@@ -74,8 +74,16 @@ sdfdsfsfssdfds
 
 
 dddddddddddddddddddddddddddddddddd
+<<<<<<< HEAD
+
+wwwwwwwwwwwww
+=======
 >>>>>>> aabdbda0d23f1a062fccb3a8e675b51e0d93ac55
+<<<<<<< HEAD
 
 dsfsjdfjsdlfjldkswgigeudjdjap:wq
 
 
+=======
+>>>>>>> 47454d5c1c80566cbccf4edbd3b7d2d683ce9214
+>>>>>>> eff782b69ddc2bb9970c52806378692a0ab057fb
