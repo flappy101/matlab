@@ -29,20 +29,6 @@ for i=1:size(iq,2)
 end
 signalAnalyzer(iq);
 
-<<<<<<< HEAD
-//asdasdsadasdasdsadsadsadasdsadsadsa
-=======
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
-disp("Hello from test_brnch");
->>>>>>> 10c1500a44a7caf6f361bc2905e6754c19c32f36
->>>>>>> 6e581b4310efb7257aff5f0fa86821f4b303d5a6
+% Hello !!!
 
 
-//////////asdeprtrphjkhjf;ocihjrfthj
-
-
-
-% Смотрим где будет HEAD
