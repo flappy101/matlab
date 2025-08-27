@@ -34,10 +34,15 @@ signalAnalyzer(iq);
 signal signalsssssssssssssssssssssssssssssssssssssssssssss
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 ewrwetrhtyiutyi
 yutyuty
+=======
+<<<<<<< HEAD
+//asdasdsadasdasdsadsadsadasdsadsadsa
+>>>>>>> be3acd2de790ef5a2190f548ef118e085475427c
 =======
 
 >>>>>>> 75118efd1c87b2c1e9afe52a8fdbffdb322646df
@@ -54,4 +59,14 @@ winwinwin
 
 22222222222222222222222222222222222222222222222222
 
+<<<<<<< HEAD
 33333333333333333333333333333333333333333333333333
+=======
+
+
+% Смотрим где будет HEAD
+% check
+=======
+force power
+>>>>>>> e0b0cc04da5d2cfe8f3e175e0b782f7fe2c46fb0
+>>>>>>> be3acd2de790ef5a2190f548ef118e085475427c
