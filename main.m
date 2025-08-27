@@ -59,4 +59,10 @@ winwinwin
 % check
 ======
 
+<<<<<<< HEAD
 gjdkjslkfjlkdsjflkdsjflkds:q
+=======
+asdsdddddddddddddddddddddddddddddddddd
+ssssssssssssss
+aaaaaaaaaaaaaaaaaa
+>>>>>>> refs/remotes/origin/master
