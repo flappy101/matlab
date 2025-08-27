@@ -37,17 +37,6 @@ signal signalsssssssssssssssssssssssssssssssssssssssssssss
 <<<<<<< HEAD
 
 
-ewrwetrhtyiutyi
-yutyuty
-=======
-<<<<<<< HEAD
-//asdasdsadasdasdsadsadsadasdsadsadsa
->>>>>>> be3acd2de790ef5a2190f548ef118e085475427c
-=======
-
->>>>>>> 75118efd1c87b2c1e9afe52a8fdbffdb322646df
-
-
 winwinwin
 =======
 >>>>>>> cf6e783e6593e9854372aced7f3d9db8ba5378f8
