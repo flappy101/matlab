@@ -21,5 +21,12 @@ end
 
 iq = i + 1i*q;
 
-iq = ifft(iq);
+iq = reshape(iq,128,8);
+iq_fft = [];
+for i=1:size(iq,2)
+  tmp = ifft(iq(:,i),128);
+  iq_fft = [iq_fft; tmp];
+end
 signalAnalyzer(iq);
+
+
