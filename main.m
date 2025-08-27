@@ -32,9 +32,8 @@ signalAnalyzer(iq);
 % Hello !!!
 
 
-<<<<<<< HEAD
-//////////asdeprtrphjkhjf;ocihjrfthj
 
+<<<<<<< HEAD
 
 
 ewrwetrhtyiutyi
@@ -49,3 +48,5 @@ winwinwin
 >>>>>>> cf6e783e6593e9854372aced7f3d9db8ba5378f8
 
 1111111111111111111111111111111111111111111111111111111
+=======
+>>>>>>> 340b008d6a9a18a5fcf17280797c647fde1e380d
