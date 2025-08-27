@@ -61,3 +61,7 @@ winwinwin
 force power
 >>>>>>> e0b0cc04da5d2cfe8f3e175e0b782f7fe2c46fb0
 >>>>>>> be3acd2de790ef5a2190f548ef118e085475427c
+
+wreewr
+
+dobavil strochky
