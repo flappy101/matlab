@@ -57,16 +57,4 @@ winwinwin
 
 % Смотрим где будет HEAD
 % check
-=======
-force power
->>>>>>> e0b0cc04da5d2cfe8f3e175e0b782f7fe2c46fb0
->>>>>>> be3acd2de790ef5a2190f548ef118e085475427c
-
-<<<<<<< HEAD
-nhfnfnnf
-
-=======
-wreewr
-
-dobavil strochky
->>>>>>> ac70278336e8cfff412425dc1e922b4dc5258866
+======
