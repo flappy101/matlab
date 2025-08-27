@@ -32,18 +32,4 @@ signalAnalyzer(iq);
 % Hello !!!
 
 
-<<<<<<< HEAD
-//////////asdeprtrphjkhjf;ocihjrfthj
 
-
-
-ewrwetrhtyiutyi
-yutyuty
-=======
-
->>>>>>> 75118efd1c87b2c1e9afe52a8fdbffdb322646df
-
-
-winwinwin
-=======
->>>>>>> cf6e783e6593e9854372aced7f3d9db8ba5378f8
