@@ -34,6 +34,7 @@ signalAnalyzer(iq);
 =======
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 disp("Hello from test_brnch");
 >>>>>>> 10c1500a44a7caf6f361bc2905e6754c19c32f36
@@ -46,3 +47,6 @@ disp("Hello from test_brnch");
 
 ewrwetrhtyiutyi
 yutyuty
+=======
+
+>>>>>>> 75118efd1c87b2c1e9afe52a8fdbffdb322646df
